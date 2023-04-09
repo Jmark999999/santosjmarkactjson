@@ -8,65 +8,48 @@
             "name" => "Arabian horse",
             "scientific_name" => "Equus caballus",
             "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
+            "description" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
         ],
         [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
+            "img" => "cat.jpg",
+            "type" => "Cat",
+            "name" => "American Bobtail Cat",
+            "scientific_name" => "Felis silvestris catus",
             "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
+            "description" => ["230 Bones","Four Legs","10-20 yrs Lifes","Carnivores",]
         ],
         [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
-            "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
+            "img" => "salamander.jpeg",
+            "type" => "Salamander",
+            "name" => "Spotted salamander",
+            "scientific_name" => "Urodela",
+            "class" => "Amphibians",
+            "description" => ["60 Bones","Four Legs","25-30 yrs Lifes","Carnivores",]
         ],
         [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
+            "img" => "dog.jpeg",
+            "type" => "Dog",
+            "name" => "German Shepherd",
+            "scientific_name" => "Caris lupus familiaris",
             "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
+            "description" => ["321 Bones","Four Legs","10-13 yrs Lifes","Omnivores",]
         ],
         [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
+            "img" => "elephantt.jpeg",
+            "type" => "Elephant",
+            "name" => "African forest elephant",
+            "scientific_name" => "Loxodonta africana and Elephas maximus",
             "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
+            "description" => ["351 Bones","Four Legs","60-70 yrs Lifes","Herbivores",]
         ],
         [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
+            "img" => "tiger.jpg",
+            "type" => "Tiger",
+            "name" => "Caspian tiger",
+            "scientific_name" => "Panthera tigris",
             "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
+            "description" => ["432 Bones","Four Legs","10-20 yrs Lifes","Carnivores",]
         ],
-        [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
-            "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
-        ],
-        [   
-            "img" => "horse.jpg",
-            "type" => "Horse",
-            "name" => "Arabian horse",
-            "scientific_name" => "Equus caballus",
-            "class" => "Mammals",
-            "parts" => ["206 Bones","Four Legs","25-30 yrs Lifes","Herbivores",]
-        ],
-       
   
 
     ];
