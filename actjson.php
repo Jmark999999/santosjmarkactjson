@@ -35,7 +35,7 @@
             "description" => ["321 Bones","Four Legs","10-13 yrs Lifes","Omnivores",]
         ],
         [   
-            "img" => "elephantt.jpeg",
+            "img" => "elephant.jpeg",
             "type" => "Elephant",
             "name" => "African forest elephant",
             "scientific_name" => "Loxodonta africana and Elephas maximus",
